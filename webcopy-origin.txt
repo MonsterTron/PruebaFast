@@ -1,0 +1,92 @@
+Uri: https://bnbstake.app/
+File Name: C:\Downloaded Web Sites\bnbstake.app\index.htm
+Content Type: text/html
+
+Uri: https://bnbstake.app/favicon.ico
+File Name: C:\Downloaded Web Sites\bnbstake.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://bnbstake.app/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/manifest.json
+File Name: C:\Downloaded Web Sites\bnbstake.app\manifest.json
+Content Type: application/json
+
+Uri: https://bnbstake.app/static/css/2.c1581375.chunk.css
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\css\2.c1581375.chunk.css
+Content Type: text/css
+
+Uri: https://bnbstake.app/static/css/main.36ab0f94.chunk.css
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\css\main.36ab0f94.chunk.css
+Content Type: text/css
+
+Uri: https://bnbstake.app/static/js/2.b76c1c72.chunk.js
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\js\2.b76c1c72.chunk.js
+Content Type: application/javascript
+
+Uri: https://bnbstake.app/static/js/main.e18450b0.chunk.js
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\js\main.e18450b0.chunk.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+File Name: C:\Downloaded Web Sites\bnbstake.app\css2.css
+Content Type: text/css
+
+Uri: https://bnbstake.app/static/media/bg.ad0e54f3.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\media\bg.ad0e54f3.png
+Content Type: image/png
+
+Uri: https://bnbstake.app/static/media/bg1.239e6e44.png
+File Name: C:\Downloaded Web Sites\bnbstake.app\static\media\bg1.239e6e44.png
+Content Type: image/png
+
